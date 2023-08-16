@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Salveee</h1>
+<h1 align="left">Salveee  👋</h1>
 
 ###
 
