@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Salveee</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Eduardo Malkut, sou do Paraná, Brasil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo HTML<br>🎯 Metas: aprender a programar bem<br>🎲 Fato engraçado: Erro muito as vezes.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu uso essas linguagens:</h2>
 
 ###
 
